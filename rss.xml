@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Manie Kohn]]></title>
         <description><![CDATA[Manie Kohn]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/manie-kohn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 21 Oct 2015 17:40:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 21 Oct 2015 17:42:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/manie-kohn/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3bfa81bb-94cd-4b96-aa3d-3b4bce834cad.jpg">]]></description>
-            <link>undefinedbce6be7f-0398-41c2-a65e-a95fdcf69c2c/index.html</link>
+            <link>https://thegrid.ai/manie-kohn/bce6be7f-0398-41c2-a65e-a95fdcf69c2c/index.html</link>
             <guid isPermaLink="false">bce6be7f-0398-41c2-a65e-a95fdcf69c2c</guid>
-            <pubDate>Wed, 21 Oct 2015 17:40:01 GMT</pubDate>
+            <pubDate>Wed, 21 Oct 2015 17:40:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/manie-kohn/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">680cf416-4268-46b9-b541-9887a5eadabb</guid>
+            <pubDate>Wed, 21 Oct 2015 17:40:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
