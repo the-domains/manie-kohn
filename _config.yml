@@ -1,0 +1,23 @@
+name: Manie Kohn
+favicon: null
+layout_spectrum: 0.030291910748928785
+typography_spectrum: 0.42586433282122016
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8260284578427672
+  lightness: 0.5918578854762018
+  saturation: 0.6346442291978747
+  rhythmicContrast: 0.6005225235130638
+purpose: []
